@@ -15,7 +15,7 @@ import datetime
 #import shutil
 
 
-
+this is a bug
 
 def some_func():
     CFG.start_clock_module = datetime.datetime.now()
