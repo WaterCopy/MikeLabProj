@@ -14,8 +14,8 @@ import UTILITY as UTL
 import datetime
 #import shutil
 
+I create a different bug
 
-this is a bug
 
 def some_func():
     CFG.start_clock_module = datetime.datetime.now()
