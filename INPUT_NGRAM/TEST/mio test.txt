@@ -1,0 +1,9 @@
+Adesso si tratta di capire come funziona questa NLTK poiche potrebbe essere utile
+
+12 34 56 78
+AB CD EF GH
+
++12345678
+ABCDEFGH
+
+

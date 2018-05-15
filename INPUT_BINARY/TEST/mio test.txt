@@ -1,0 +1,11 @@
+"ciao come stai?"
+0
+1
+A
+B
+A B
+AB1
+1
+0
+1 0
+10
