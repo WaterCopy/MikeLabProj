@@ -1,0 +1,49 @@
+############################################-############################################
+################################# F I L E  A U T H O R  #################################
+# MIKE - see contacts below
+
+##################################### P A C K A G E #####################################
+# package Name: ABACUS
+# The abacus is perhaps the computational tool per antonomasia
+# It's conceptual value is so high that its name was capable to survive across the millenniums: the first models appeared
+# in Mesopotamia and China (21st century BC) and its name comes in turn from the Hebrew "dust"
+# (because the dust, the sand, was used for "writing" symbols on a tablet)
+#
+# I have chosen for this package the name ABACUS because:
+# - it basically compute different representation of the same strings (from text, to ascii only, to binary 8bit, etc)
+# - ABACUS is the perfect acronym for a funny name that help me to keep smiling:  "Advanced Basic Accessory Computing Useless Stuff"
+#
+#
+# ABACUS takes in input the files from the folder and on these files can perform the following transformation:
+#
+# - Split each file in the input folder into several files
+#   Current split criteria:
+#   []by line
+#   []by size
+#   []by fraction
+#
+# - Clean the input file from non ASCII chars
+#   Current exception management criteria:
+#   []skip the files that have also non ASCII chars
+#   []replace the non char char with anything chosen by the user
+#
+# - Binary transformation:
+#   Current options are:
+#   [] 8 bit binary representation
+#   [] 7 bit binary representation
+#
+# - N-grams creation
+#   from the input files are created n-grams with "n" of the size desired by the user
+#
+#   I have created this package as one of the tools that I am assembling for the project "authorship identification"
+
+
+#################################### C O N T A C T S ####################################
+# People involved in the project:
+# - Professor Helen Ashman
+# - Mahdi Shafiei
+# - Mike Di Giacomo     | Mike.DiGiacomo@unisa.edu.au       | +61 431 40 86 53
+
+######################################### E N D #########################################
+
+
